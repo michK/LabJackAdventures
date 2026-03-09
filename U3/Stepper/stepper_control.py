@@ -57,4 +57,3 @@ d.writeRegister(5000,0)
 
 # Close the device.
 d.close()
-
